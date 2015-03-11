@@ -1,2 +1,3 @@
-# unity3d-tutorial-01
-Projeto do Tutorial - Unity3D C# - Introdução Delegates, Events, Singleton
+# Unity3D C&#35; - Introdução Delegates, Events e Singleton
+
+Arquivos do projeto do tutorial. Link do video
